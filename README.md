@@ -1,5 +1,5 @@
 <hr>
-<h1>Hi all, I'm Iván García Gómez</h1>
+<h1>Hi all :wave:, I'm Iván García Gómez</h1>
 <hr>
 <h3>I am a Software Engineer (UPM) :nerd_face: and an athlete at the A. A. Moratalaz :runner:</h3>
 <ul>
