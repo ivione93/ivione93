@@ -3,8 +3,8 @@
 <hr>
 <h3>I am a Software Engineer (UPM) and an athlete at the A. A. Moratalaz</h3>
 <ul>
-    <li>I am currently working at <b>Amaris Consultant</b> as a software developer on an ING Bank project.</li>
-    <li>Previously I was working at Accenture on different projects for DIA, Carrefour and Guardia Civil.</li>
+    <li>I am currently working at <b>Amaris Consultant</b> as a software developer on an ING Bank project since 2022.</li>
+    <li>Previously I was working at Accenture on different projects for DIA, Carrefour and Guardia Civil (2018-2021).</li>
 </ul>
 <p>In October 2021 I published my first Android application, <b>'Hoja del mes'</b> which can be found at the following link: <a href="https://play.google.com/store/apps/details?id=com.ivione93.hojames" target="_blank">Play Store</a></p>
 <center>
