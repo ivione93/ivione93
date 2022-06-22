@@ -1,10 +1,7 @@
-<center>
 <hr>
-<h1>Welcome to my Github repository</h1>
+<h1>Hi all, I'm Iván García Gómez</h1>
 <hr>
-<h3>Hi all, I'm Iván García Gómez</h3>
-</center>
-<h4>I am a Software Engineer (UPM) and an athlete at the A. A. Moratalaz</h4>
+<h3>I am a Software Engineer (UPM) and an athlete at the A. A. Moratalaz</h3>
 <ul>
     <li>I am currently working at <b>Amaris Consultant</b> as a software developer on an ING Bank project.</li>
     <li>Previously I was working at Accenture on different projects for DIA, Carrefour and Guardia Civil.</li>
