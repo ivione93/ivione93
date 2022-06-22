@@ -1,6 +1,6 @@
-<hr>
+
 <h1>Hi all :wave:, I'm Iván García Gómez</h1>
-<hr>
+
 <h3>I am a Software Engineer (UPM) :nerd_face: and an athlete at the A. A. Moratalaz :runner:</h3>
 <ul>
     <li>I am currently working at <b>Amaris Consultant</b> as a software developer on an ING Bank :bank: project since 2022.</li>
@@ -13,8 +13,8 @@
 <br>
 <p>Are you one of those who keeps writing down all your workouts in a notebook?</p>
 <p>'Hoja del mes' is a simple application to be able to save all the training sessions and competitions aimed especially at people who practice athletics.</p>
-<hr>
+
 <h1>:metal: Keep coding! :metal:</h1>
-<hr>
+
 </body>
 </html>
