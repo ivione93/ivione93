@@ -14,7 +14,7 @@
 <p>Are you one of those who keeps writing down all your workouts in a notebook?</p>
 <p>'Hoja del mes' is a simple application to be able to save all the training sessions and competitions aimed especially at people who practice athletics.</p>
 <hr>
-<h1>:metal Keep coding! :metal:</h1>
+<h1>:metal: Keep coding! :metal:</h1>
 <hr>
 </body>
 </html>
