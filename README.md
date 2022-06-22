@@ -1,7 +1,7 @@
 
 <h1>Hi all :wave:, I'm Iván García Gómez</h1>
 
-<h3>I am a Software Engineer (UPM) :nerd_face: and an athlete at the A. A. Moratalaz :runner:</h3>
+<h3>I am a Software Engineer (UPM) :nerd_face: and an athlete at A. A. Moratalaz :runner:</h3>
 <ul>
     <li>I am currently working at <b>Amaris Consultant</b> as a software developer on an ING Bank :bank: project since 2022.</li>
     <li>:briefcase: Previously I was working at Accenture on different projects for DIA, Carrefour and Guardia Civil (2018-2021).</li>
