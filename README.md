@@ -1,1 +1,4 @@
-<h1>Welcome to my Github repository</h1>
+<h1>Hi all, I'm Iván García</h1>
+<hr>
+<h3>Welcome to my Github repository</h3>
+
